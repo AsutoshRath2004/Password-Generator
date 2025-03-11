@@ -16,4 +16,4 @@ A **simple and customizable password generator** built with **Vite, React, and T
   
 ---
 
-Built with ❤️ using **React, Vite, and Tailwind CSS**.  
+Built using **React, Vite, and Tailwind CSS**.  
