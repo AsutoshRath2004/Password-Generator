@@ -1,8 +1,19 @@
-# React + Vite
+# 🔑 Password Generator  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **simple and customizable password generator** built with **Vite, React, and Tailwind CSS**. Users can adjust password length, include numbers and special characters, and copy the generated password with a single click.  
 
-Currently, two official plugins are available:
+## 🚀 Features  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ **Dynamic Length Selection** – Adjust password length using a slider.  
+✅ **Customizable Options** – Toggle numbers and special characters via checkboxes.  
+✅ **Copy to Clipboard** – Instantly copy generated passwords with a button click.  
+✅ **Modern UI** – Built with React and styled with Tailwind CSS for a clean look.  
+
+## 🛠️ Technologies Used  
+
+- **Vite + React** – Fast and efficient development framework.  
+- **Tailwind CSS** – Modern styling for responsiveness and simplicity.
+  
+---
+
+Built with ❤️ using **React, Vite, and Tailwind CSS**.  
